@@ -59,4 +59,7 @@ The `CashMachineGUI` class provides a user interface using Tkinter:
 When the application starts, it checks for an existing PIN in pin.txt or sets a default PIN if none is found. Users are prompted to enter their PIN. After three failed attempts, the application will exit. Once authenticated, users can access different functionalities through the GUI, which dynamically updates the balance and transaction history.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contributing
+- If you would like to contribute to this project, please fork the repository and submit a pull request.

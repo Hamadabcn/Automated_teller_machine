@@ -33,3 +33,8 @@ To run this project, ensure you have Python installed on your system. You will a
    ```bash
    cd Automated_teller_machine
 
+3. Run the application:
+   ```bash
+   python gui.py
+
+

@@ -42,7 +42,7 @@ To run this project, ensure you have Python installed on your system. You will a
    python gui.py
 
 ## Usage
-The default PIN number is `1234`. Upon running the application, you will be prompted to enter your 4-digit PIN. After successful authentication, you can perform various transactions such as withdrawing money, depositing funds, and checking your balance.
+- The default PIN number is `1234`. Upon running the application, you will be prompted to enter your 4-digit PIN. After successful authentication, you can perform various transactions such as withdrawing money, depositing funds, and checking your balance.
 
 
 ## Functionality

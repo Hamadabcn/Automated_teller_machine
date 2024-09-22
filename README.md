@@ -56,7 +56,7 @@ The `CashMachineGUI` class provides a user interface using Tkinter:
 - **State Management**: Loads and saves the machine's state to a JSON file to retain information between sessions.
   
 ## How It Works
-When the application starts, it checks for an existing PIN in pin.txt or sets a default PIN if none is found. Users are prompted to enter their PIN. After three failed attempts, the application will exit. Once authenticated, users can access different functionalities through the GUI, which dynamically updates the balance and transaction history.
+- When the application starts, it checks for an existing PIN in pin.txt or sets a default PIN if none is found. Users are prompted to enter their PIN. After three failed attempts, the application will exit. Once authenticated, users can access different functionalities through the GUI, which dynamically updates the balance and transaction history.
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.

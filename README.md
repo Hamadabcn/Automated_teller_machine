@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/fd2fc00e-6e52-4231-b7f5-68e62f25ac30
+https://github.com/user-attachments/assets/069e7a60-1526-4442-8d63-8f467f936c48
 
 ![atm](https://github.com/user-attachments/assets/835f3057-8000-4704-ad06-b9c401ab8186)
 # Automated Teller Machine (ATM)

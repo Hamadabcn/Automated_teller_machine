@@ -6,7 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functionality](#functionality)
-  - [Cash Machine Class](#cash-machine-class)
   - [GUI Class](#gui-class)
 - [How It Works](#how-it-works)
 - [License](#license)

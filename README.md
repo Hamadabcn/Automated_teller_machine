@@ -27,4 +27,9 @@ To run this project, ensure you have Python installed on your system. You will a
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hamadabcn/Automated_teller_machine.git
+
+Navigate to the project directory:
+   ```bash
+   cd Automated_teller_machine
+

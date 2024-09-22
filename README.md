@@ -1,3 +1,4 @@
+![atm](https://github.com/user-attachments/assets/835f3057-8000-4704-ad06-b9c401ab8186)
 # Automated Teller Machine (ATM)
 
 ## Table of Contents

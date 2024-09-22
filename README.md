@@ -31,5 +31,5 @@ To run this project, ensure you have Python installed on your system. You will a
 
 2. Navigate to the project directory:
    ```bash
-    cd Automated_teller_machine
+   cd Automated_teller_machine
 
